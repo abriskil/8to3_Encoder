@@ -1,4 +1,4 @@
---348298 - Abullah Eren Yavan
+--348298 - Abdullah Eren Yavan
 
 Library IEEE;
 Use IEEE.std_logic_1164.all;
